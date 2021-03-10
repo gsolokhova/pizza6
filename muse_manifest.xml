@@ -1,0 +1,25 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pizza.com" resolutions="1x" timestamp="1615307395680">
+  <folder name="css">
+    <file name="site_global.css" crc="3841318502"/>
+    <file name="index.css" crc="365160214" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="canadian-eh-en.webp" crc="254295692" seo="true" mt="1615306929000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="вставленное изображение 200x200.jpg" crc="3813685803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2041-4.png" crc="536410598" ref="index"/>
+    <file name="u2045-4.png" crc="4126512055" ref="index"/>
+  </folder>
+  <file name="index.html" crc="17293497" seo="true" mt="1615307384638" redirect="true"/>
+</manifest>
